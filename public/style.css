@@ -27,3 +27,21 @@ a{
     border: hidden;
     color: #fff;
 }
+
+.image img {
+    padding: 10px;
+    border: 1px solid #e7e7e7;
+    width: 25px;
+}
+
+.image {
+
+    width: 325px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-a {
+    float: right;
+    margin: 10px 60px;
+}
